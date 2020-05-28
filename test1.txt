@@ -1,10 +1,1 @@
- Volume in drive C is Windows10
- Volume Serial Number is BC4B-BEE9
-
- Directory of C:\Users\vbachu\Desktop\myproject
-
-28-05-2020  23:59    <DIR>          .
-28-05-2020  23:59    <DIR>          ..
-28-05-2020  23:59               122 test1.txt
-               1 File(s)            122 bytes
-               2 Dir(s)  112,462,004,224 bytes free
+hi
